@@ -1,6 +1,7 @@
 #vzo-group{position:fixed;left:0px;bottom:0px;z-index:1000000;width: 100%;text-align:left;cursor:pointer;}
 
-#bg-wup{position:absolute;left:50%;bottom:-70px;z-index:11;opacity:0;margin-left:-344px;}
+#bg-wup{position:absolute;left:50%;bottom:-70px;z-index:11;opacity:0;}
+#teste{background-color:white;}
 
 #txt1-wup{position: absolute;left: 50%;top: -45px;z-index: 9999;opacity: 0;margin-left: -335px;margin-top: 11px;}
 #txt2-wup{position: absolute;left: 50%;bottom: 1px;z-index: 9999;opacity: 0;margin-left: -302px;margin-top: 10px;top: -46px;}
