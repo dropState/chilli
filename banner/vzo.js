@@ -60,6 +60,7 @@ function vzoBottomAnimate2(){
 }
 
 	criado = "false";
+	teste = "teste";
 function vzoMouseEvents(){
 	jQuery("#vzo-group").unbind("mouseenter");
 	jQuery("#vzo-group").unbind("mouseleave");
